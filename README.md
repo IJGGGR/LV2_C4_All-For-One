@@ -6,4 +6,4 @@
 
 ## Peer Review
 
-- TODO
+- Nicolas Gonzaba- Code and website works well, good job on your use of Next.Js as well. the only critique I have is that the website looks kind of plain.
